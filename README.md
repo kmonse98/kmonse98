@@ -1,5 +1,11 @@
 ### Hi there, I'm Monse 👋
+<h1 align="center">Hi 👋, I'm Monserrat Catillo</h1>
+<h3 align="center">A passionate data analyst from México.</h3>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/monserrat-castillo-638a20265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monserrat-castillo-638a20265" height="30" width="40" /></a>
+</p>
 <!--
 **kmonse98/kmonse98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
