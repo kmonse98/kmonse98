@@ -1,4 +1,3 @@
-### Hi there, I'm Monse 👋
 <h1 align="center">Hi 👋, I'm Monserrat Catillo</h1>
 <h3 align="center">A passionate data analyst from México.</h3>
 
