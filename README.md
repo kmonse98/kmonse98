@@ -13,7 +13,7 @@
 - A passionate Self-taught data analyst 
 - Hiking as a hobby
 - Currently learning Data Engineering on my own
-- Personal website [link]()
+- Personal website [www.linkedin.com/in/monserrat-castillo-638a20265]()
 - I’m currently open for an Intern or a new job opportunity, this is [my resume]()
 
 <br><br>
