@@ -20,9 +20,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-
-
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -30,11 +27,15 @@
   </ul>
 </div>
 <!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,github,md,mongodb,mysql,py,vscode" />
-  </a>
-</p>
+
+
+![Static Badge](https://img.shields.io/badge/SQL%20Server-yellow?style=for-the-badge&logo=microsoftsqlserver&logoColor=%232B2728&logoSize=auto&labelColor=%23A569BD&color=%232B2728)
+![Static Badge](https://img.shields.io/badge/My%20SQL-yellow?style=for-the-badge&logo=mysql&logoColor=%232B2728&logoSize=auto&labelColor=%23009848&color=%232B2728)
+![Static Badge](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=%232B2728&logoSize=auto&labelColor=%233776AB&color=%232B2728)
+![Static Badge](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=powerbi&logoColor=%232B2728&logoSize=auto&labelColor=%23F4D03F&color=%232B2728)
+
+
+<!--h1 without bottom border-->
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
@@ -46,7 +47,6 @@
 
 <!--icons and links-->
 <p align="center">
-<a href="https://www.linkedin.com/in/monserrat-castillo-638a20265" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
 <a href="https://www.instagram.com/nishant.jangir.1010/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 <a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
