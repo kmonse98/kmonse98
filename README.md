@@ -28,12 +28,71 @@
 </div>
 <!--tech stack icons-->
 
+### 👉 Programming languages
 
-![Static Badge](https://img.shields.io/badge/SQL%20Server-yellow?style=for-the-badge&logo=microsoftsqlserver&logoColor=%232B2728&logoSize=auto&labelColor=%23A569BD&color=%232B2728)
-![Static Badge](https://img.shields.io/badge/My%20SQL-yellow?style=for-the-badge&logo=mysql&logoColor=%232B2728&logoSize=auto&labelColor=%23009848&color=%232B2728)
-![Static Badge](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=%232B2728&logoSize=auto&labelColor=%233776AB&color=%232B2728)
-![Static Badge](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=powerbi&logoColor=%232B2728&logoSize=auto&labelColor=%23F4D03F&color=%232B2728)
+<p align="left"> 
+  
+  <a href="https://python.org/">
+    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+  </a>
+  &emsp;
 
+</p>
+
+### 👉 Frameworks and python libraries
+<p align="left"> 
+&emsp;
+  <a href="https://fastapi.tiangolo.com/" target="_blank"> 
+   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-brightgreen?style=for-the-badge&logo=fastapi&logoColor=%23000000&logoSize=auto&labelColor=%23009688&color=%23009688">
+  </a>   
+  &emsp;
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  </a> 
+   &emsp;
+  <a href="https://numpy.org/" target="_blank"> 
+    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-brightgreen?style=for-the-badge&logo=numpy&logoColor=%23000000&logoSize=auto&labelColor=%2300A3E0&color=%2300A3E0"/>
+  </a>
+  &emsp;
+  <a href="https://pandas.pydata.org/" target="_blank"> 
+    <img alt="Pytorch" src="https://img.shields.io/badge/Pandas-brightgreen?style=for-the-badge&logo=pandas&logoColor=%23000000&logoSize=auto&labelColor=%23139C5A&color=%23139C5A"/>
+  </a>
+&emsp;
+  <a href="https://matplotlib.org/" target="_blank"> 
+    <img alt="Pytorch" src="https://img.shields.io/badge/Matplotlib-brightgreen?style=for-the-badge&logo=pandas&logoColor=%23000000&logoSize=auto&labelColor=%23512BD4&color=%23512BD4"/>
+  </a>
+&emsp;
+  <a href="https://seaborn.pydata.org/" target="_blank"> 
+    <img alt="Pytorch" src="https://img.shields.io/badge/Seaborn-brightgreen?style=for-the-badge&logo=seaborn&logoColor=%23000000&logoSize=auto&labelColor=%23EC1C24&color=%23EC1C24"/>
+
+  </a>
+	
+</p>
+
+### 👉 Databases & Cloud Hosting
+<p align="left">
+  &emsp;
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
+  &emsp;
+    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  &emsp;
+<a href="https://firebase.google.com/"><img alt="SQL Server" src ="https://img.shields.io/badge/SQL--Server-brightgreen?style=for-the-badge&logo=microsoftsqlserver&logoSize=auto&labelColor=%23FD5750&color=%23FD5750">
+</a>
+ </p>
+
+ ### 👉 Software & Tools
+ 
+<p>
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+  &emsp;
+   <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
+     &emsp;
+ </p>
 
 <!--h1 without bottom border-->
 
